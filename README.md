@@ -1,5 +1,5 @@
 # JSS Connect
-JSS CONNECT is a dedicated platform designed to foster lasting relationships between alumni and their alma mater. Our mission is to create a vibrant community where former students can reconnect, share experiences, and contribute to the ongoing success of their institution.
+JSS CONNECT is a dedicated platform designed to foster lasting relationships between alumni and their juniors. Our mission is to create a vibrant community where former students can reconnect, share experiences, and contribute to the ongoing success of their institution.
 By joining JSS Connect, you become part of a thriving community that values lifelong learning, mutual support, and shared success. Whether you're looking to reconnect with old friends, expand your professional horizons, or give back to your alma mater, JSS provides the perfect platform to achieve your goals.
 
 **Key Features**
